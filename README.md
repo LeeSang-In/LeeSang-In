@@ -1,8 +1,8 @@
-# 안녕하세요, [이름]입니다! 👋
+# 안녕하세요, 이상인 입니다! 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[본인_깃허브_ID]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 [이름]입니다.
+끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 이상인 입니다.
 사용자에게 편리함과 즐거움을 주는 서비스를 만드는 데 관심이 많습니다.
 새로운 기술을 배우고 적용하는 것에 대한 두려움이 없으며, 동료들과 함께 배우고 발전하는 것을 중요하게 생각합니다.
 
@@ -33,11 +33,9 @@
 * **Tools**: `Git` `Docker` `VS Code` (사용하는 도구)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
 <br/>
