@@ -1,4 +1,4 @@
-## Hi there 👋
+## 최강의 개발자가 되는 과정
 
 <!--
 **LeeSang-In/LeeSang-In** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
