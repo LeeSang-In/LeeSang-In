@@ -1,7 +1,5 @@
 # 안녕하세요, 이상인 입니다! 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSang-In&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 이상인 입니다.
 사용자에게 편리함과 즐거움을 주는 서비스를 만드는 데 관심이 많습니다.
 새로운 기술을 배우고 적용하는 것에 대한 두려움이 없으며, 동료들과 함께 배우고 발전하는 것을 중요하게 생각합니다.
