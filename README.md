@@ -1,6 +1,6 @@
 # 안녕하세요, 이상인 입니다! 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[본인_깃허브_ID]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeSang-In&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 끊임없이 배우고 성장하는 것을 즐기는 신입 개발자 이상인 입니다.
 사용자에게 편리함과 즐거움을 주는 서비스를 만드는 데 관심이 많습니다.
@@ -10,27 +10,27 @@
 
 ## 💡 관심 분야 (Interests)
 
-* **[관심 기술/분야 1]**: (예: 웹 프론트엔드 개발, 클린 코드, UI/UX 개선)
-* **[관심 기술/분야 2]**: (예: RESTful API 설계, 데이터베이스 모델링)
-* **[관심 기술/분야 3]**: (예: 클라우드 환경 배포, 문제 해결)
+* 백엔드 개발
+* 데이터베이스 모델링
+* React
 
 <br/>
 
 ## 🌱 학습 중인 내용 (Currently Learning)
 
-* **[현재 학습 중인 기술/언어 1]**: (예: TypeScript - 기초 문법 및 프로젝트 적용 연습 중)
-* **[현재 학습 중인 기술/언어 2]**: (예: Docker & Kubernetes - 컨테이너화 및 오케스트레이션 기본 개념 학습)
-* **[수강 중인 강의/스터디]**: (예: [강의/스터디 이름] - [간단한 설명])
+* React - 기초 문법 및 프로젝트 적용 연습 중
+* JPA - 프로젝트를 통한 연습 및 적용
+* SQLD 자격증 - 유튜브 강의 및 문제 풀이로 학습
 
 <br/>
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-* **Languages**: `JavaScript` `Python` `Java` (자신이 사용 가능한 언어)
-* **Frontend**: `HTML` `CSS` `React` `Vue.js` (경험해 본 프론트엔드 기술)
-* **Backend**: `Node.js` `Spring Boot` `Django` (경험해 본 백엔드 기술)
-* **Database**: `MySQL` `MongoDB` (경험해 본 데이터베이스)
-* **Tools**: `Git` `Docker` `VS Code` (사용하는 도구)
+* **Languages**: `JavaScript` `Java`
+* **Frontend**: `HTML` `CSS` `React` `Thymeleaf`
+* **Backend**: `Node.js` `Spring Boot`
+* **Database**: `MySQL`
+* **Tools**: `Git` `VS Code`
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
@@ -48,17 +47,18 @@
 
 ## 📚 주요 프로젝트 (Featured Projects)
 
-### 1. [프로젝트 명 1]
-   * **설명**: (예: 간단한 할 일 목록 웹 애플리케이션)
-   * **주요 기능**: (예: 할 일 추가, 삭제, 완료 처리 기능)
-   * **사용 기술**: `React` `Node.js` `MongoDB`
+### 1. Mat.zip
+   * **설명**: 사용자 선호도 기반 맛집 큐레이팅 웹 페이지
+   * **주요 기능**: 위치에 따른 맛집 추천 및 식당 등록
+   * **담당 기능**: 식당 정보에 관련된 CRUD 기능 구현 (등록, 조회, 수정, 삭제)
+   * **사용 기술**: `Java` `JavaScript` `HTML` `CSS` `Spring Boot` `JPA` `Mysql` `Thymeleaf`
    * **GitHub**: [https://github.com/본인_깃허브_ID/프로젝트_저장소](https://github.com/본인_깃허브_ID/프로젝트_저장소)
-   * **배포 링크 (선택 사항)**: [배포된 서비스 주소]
 
-### 2. [프로젝트 명 2]
-   * **설명**: (예: 내가 읽은 책 기록 및 공유 플랫폼 (진행 중))
-   * **주요 기능**: (예: 도서 검색 API 연동, 독서 기록, 별점 및 서평 작성)
-   * **사용 기술**: `Python` `Django` `SQLite`
+### 2. Readio - 진행 중
+   * **설명**: 사용자 라이프스타일 기반 책 관련 영상 큐레이션 서비스
+   * **주요 기능**: 도서 영상 API 연동 및 추천, 도서 검색 API 연동, 피드 추천 및 커뮤니티)
+   * **담당 기능**: 포스트에 관련된 CRUD 및 좋아요와 신고, 피드 추천 알고리즘, 팔로우 기능, 도서 검색 API 연동 등
+   * **사용 기술**: `Java` `JavaScript` `HTML` `CSS` `Spring Boot` `JPA` `Mysql` `React` 
    * **GitHub**: [https://github.com/본인_깃허브_ID/프로젝트_저장소](https://github.com/본인_깃허브_ID/프로젝트_저장소)
 
 <br/>
@@ -66,18 +66,17 @@
 ## 🧑‍💻 깃허브 통계 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인_깃허브_ID]&show_icons=true&theme=radical" alt="[본인_깃허브_ID]'s GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeSang-In&show_icons=true&theme=radical" alt="LeeSang-In's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인_깃허브_ID]&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSang-In&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 <br/>
 
 ## 📞 연락처 (Contact)
 
-* **Email**: [본인_이메일_주소]
-* **Blog**: [운영 중인 블로그 주소 (선택 사항)]
-* **LinkedIn**: [본인_링크드인_프로필_URL (선택 사항)]
+* **Email**: nodt12@gmail.com
+* **PhoneNum**: 010-2411-2441
 
 <br/>
 
