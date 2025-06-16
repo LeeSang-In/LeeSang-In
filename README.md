@@ -57,7 +57,8 @@
    * **주요 기능**: 도서 영상 API 연동 및 추천, 도서 검색 API 연동, 피드 추천 및 커뮤니티)
    * **담당 기능**: 포스트에 관련된 CRUD 및 좋아요와 신고, 피드 추천 알고리즘, 팔로우 기능, 도서 검색 API 연동 등
    * **사용 기술**: `Java` `JavaScript` `HTML` `CSS` `Spring Boot` `JPA` `Mysql` `React` 
-   * **GitHub**: https://github.com/LeeSang-In/Readio
+   * **GitHub**: https://github.com/LeeSang-In/Readio-front-
+   * **GitHub**: https://github.com/LeeSang-In/Readio-back-
 
 <br/>
 
